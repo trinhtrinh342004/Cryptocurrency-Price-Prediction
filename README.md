@@ -2,11 +2,15 @@
 
 ## Thông tin nhóm
 
-22520430 - Đào Trung Hiếu
-22521539 - Nguyễn Thị Trinh
-22520525 - Trần Đức Hùng
-22520063 - Nguyễn Thị Nguyệt Ánh
-22520373 - Nguyễn Trần Mỹ Hà
+### 22520430 - Đào Trung Hiếu
+
+### 22521539 - Nguyễn Thị Trinh
+
+### 22520525 - Trần Đức Hùng
+
+### 22520063 - Nguyễn Thị Nguyệt Ánh
+
+### 22520373 - Nguyễn Trần Mỹ Hà
 
 ## Phân chia công việc
 
